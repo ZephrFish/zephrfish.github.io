@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<style>
+@media only screen and (max-width: 600px) {
+  h1{
+    Margin-left: 1px !important ; 
+  }
+}
 
-You can use the [editor on GitHub](https://github.com/ZephrFish/zephrsec.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</style>  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to ZephrSec
 
-### Markdown
+Exploring Blue Team, Red and Purple sometimes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Can I get an Invite to Discord please?
 
-# Header 1
-## Header 2
-### Header 3
+You should be able to join here: 
 
-- Bulleted
-- List
+<iframe src="https://discordapp.com/widget?id=542502576210444300&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZephrFish/zephrsec.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If not ping @ZephrFish on Twitter
